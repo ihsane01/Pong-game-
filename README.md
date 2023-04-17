@@ -1,1 +1,1 @@
-# pong Project for LSI Students 2020
+# «Qlearning / PONG »
